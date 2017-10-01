@@ -1,0 +1,13 @@
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Debug\Team Database.exe.config
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Debug\Team Database.exe
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Debug\Team Database.pdb
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team Database.csprojResolveAssemblyReference.cache
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team_Database.Form1.resources
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team_Database.Properties.Resources.resources
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team Database.csproj.GenerateResource.Cache
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team Database.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team Database.exe
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team Database.pdb
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Debug\TeamDB.mdf
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Debug\TeamDB_log.ldf
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Debug\Team_Database.SettingsPage.resources

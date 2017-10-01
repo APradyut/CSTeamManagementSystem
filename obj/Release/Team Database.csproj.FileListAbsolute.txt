@@ -1,0 +1,17 @@
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Release\TeamDB.mdf
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Release\TeamDB_log.ldf
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Release\Team Database.exe.config
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Release\Team Database.exe
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Release\Team Database.pdb
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team_Database.Form1.resources
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team_Database.Properties.Resources.resources
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team_Database.SettingsPage.resources
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team Database.csproj.GenerateResource.Cache
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team Database.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team Database.exe
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team Database.pdb
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Release\Team Database.exe.manifest
+C:\Users\Adarsh\source\repos\Team Database\Team Database\bin\Release\Team Database.application
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team Database.TrustInfo.xml
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team Database.exe.manifest
+C:\Users\Adarsh\source\repos\Team Database\Team Database\obj\Release\Team Database.application
